@@ -2,7 +2,7 @@ import javax.swing.*;
 
 import java.awt.*;
 
-public class Frame implements FrameOverride {
+public class Frame {
 
     int width = 50;
     int height = 50;
